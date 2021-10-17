@@ -51,5 +51,3 @@ F2 = Blast resistance
 F3 = Fire resistance
 
 Alt+x = Reset resistance
-
-Bind documentation: https://www.autohotkey.com/docs/Hotkeys.htm
