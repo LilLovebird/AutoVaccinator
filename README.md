@@ -1,3 +1,7 @@
+Note: Sorry, but this script is unavailable for Mac and Linux.
+
+‎
+
 Manages Vaccinator charges
 
 Requires Autohotkey (https://www.autohotkey.com/download/ahk-install.exe)
