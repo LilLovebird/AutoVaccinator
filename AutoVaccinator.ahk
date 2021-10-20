@@ -4,7 +4,7 @@ Z:: ; Reset bind. Z by default. Use after (re)spawning.
 Charge = 1
 return
 
-R:: ; Bullet Bind. R by default
+T:: ; Bullet Bind. T by default
 if (Charge = 2)
 {
     SendInput {Raw}r
