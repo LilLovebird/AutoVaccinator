@@ -44,7 +44,7 @@ How to Edit Binds:
 
 Default Binds:
 
-R = Bullet resistance
+T = Bullet resistance
 
 F = Blast resistance
 
