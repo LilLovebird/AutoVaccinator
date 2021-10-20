@@ -1,10 +1,10 @@
 ﻿Charge = 1
 
-!x:: ; Reset bind. Alt+x by default. Use after (re)spawning.
+Z:: ; Reset bind. Z by default. Use after (re)spawning.
 Charge = 1
 return
 
-SC03B:: ; Bullet Bind. F1 by default
+R:: ; Bullet Bind. R by default
 if (Charge = 2)
 {
     SendInput {Raw}r
@@ -18,7 +18,7 @@ else if (Charge = 3)
 Charge = 1
 return
 
-SC03C:: ; Blast bind. F2 by default
+F:: ; Blast bind. F by default
 if (Charge = 1)
 {
     SendInput {Raw}r
@@ -32,7 +32,7 @@ else if (Charge = 3)
 Charge = 2
 return
 
-SC03D:: ; Fire bind. F3 by default
+C:: ; Fire bind. C by default
 if (Charge = 1)
 {
     SendInput {Raw}r
