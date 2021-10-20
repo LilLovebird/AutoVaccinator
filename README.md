@@ -51,3 +51,5 @@ F = Blast resistance
 C = Fire resistance
 
 Z = Reset resistance
+
+*Default binds for script may conflict with TF2 binds, please double-ckeck before use.
