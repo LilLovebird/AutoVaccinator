@@ -44,10 +44,10 @@ How to Edit Binds:
 
 Default Binds:
 
-F1 = Bullet resistance
+R = Bullet resistance
 
-F2 = Blast resistance
+F = Blast resistance
 
-F3 = Fire resistance
+C = Fire resistance
 
-Alt+x = Reset resistance
+Z = Reset resistance
